@@ -12,6 +12,7 @@
 - 💻 I also work on **Full Stack Development (React, Node.js, SQL, .NET)**
 - 🧪 Knowledge of **Manual & Automation Testing (Selenium, Java, Python)**
 - 📫 How to reach me: **your-email@example.com**
+-    Portfolio: <a href="#"  > Link</a>
 - ⚡ Fun fact: *I love automating boring stuff and building scalable systems*
 
 ---
